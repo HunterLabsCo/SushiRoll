@@ -1,0 +1,26 @@
+{
+  "zip": "06705",
+  "target_store_id": "2156",
+  "walmart_store_id": "3548",
+  "check_online": true,
+  "check_in_store": true,
+  "realert_after_hours": 6,
+  "products": [
+    {
+      "name": "Ascended Heroes ETB (Target)",
+      "url": "https://www.target.com/p/pok-mon-tcg-mega-evolution-ascended-heroes-elite-trainer-box/-/A-1010148053"
+    },
+    {
+      "name": "Ascended Heroes Pokemon Center ETB (Target)",
+      "url": "https://www.target.com/p/pokemon-tcg-mega-evolution-ascended-heroes-pokemon-center-elite-trainer-box/-/A-1009871732"
+    },
+    {
+      "name": "Ascended Heroes ETB 2-Pack (Target)",
+      "url": "https://www.target.com/p/pokemon-me2-5-ascended-heroes-elite-trainer-box-2-pack/-/A-1009790687"
+    },
+    {
+      "name": "Ascended Heroes ETB (Walmart)",
+      "url": "https://www.walmart.com/ip/Pok-mon-Trading-Card-Game-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box/18710966734"
+    }
+  ]
+}
